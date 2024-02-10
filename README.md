@@ -1,0 +1,9 @@
+orders
+![image](https://github.com/LinDiscount/bbshop/assets/146705689/04709cda-579b-4922-8ecf-33d3de137005)
+![image](https://github.com/LinDiscount/bbshop/assets/146705689/d61cb1e1-cfb0-489a-9776-699c555cb00d)
+services
+![image](https://github.com/LinDiscount/bbshop/assets/146705689/fb29fa2c-ffa9-4c57-a099-8f966fa2c50f)
+![image](https://github.com/LinDiscount/bbshop/assets/146705689/7e65d9bf-8dfd-4960-93d3-c7c9f0614e58)
+![image](https://github.com/LinDiscount/bbshop/assets/146705689/981c6e49-1222-475e-bddb-ec47e3043b55)
+users
+![image](https://github.com/LinDiscount/bbshop/assets/146705689/315a0e24-fb51-488b-bd36-383f885ce193)
